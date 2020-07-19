@@ -8,7 +8,7 @@ https://vimeo.com/user105016855/review/439674398/d547b1535d
 ## Фотки демки
 
 ### Текущие результаты
-![alt text](screens/screen-1.png =100x20)
+![alt text](screens/screen-1.png)
 
 ### Добавление видео голоса (веб-версия)
 ![alt text](screens/screen-6.png)
